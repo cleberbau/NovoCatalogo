@@ -1,0 +1,40 @@
+.navebar{
+    border-bottom:1px black solid ;
+    background-color: white;
+}
+.fundo{
+    padding: 0;
+    margin-top: 01px ;
+    margin-left:0 !important ;
+    padding-left: 0 !important;
+    width: 100vw;
+    height: 60vh;
+    background-image:url('Background.jpg') !important;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+.menuu{
+    background-color: rgb(255, 255, 255) !important;
+}
+
+#botao{
+    display: none;
+    align-items: flex-end;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+}
+
+.cards{
+    display: flex;
+    margin: 0 auto;
+    }
+
+.img1, .img2, .img3{
+    padding: 10px;
+}
+
+.texto{
+
+}
